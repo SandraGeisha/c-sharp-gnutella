@@ -1,0 +1,10 @@
+GNUTELLA CONNECT/0.6
+User-Agent: MS-Research
+Accept: application/x-gnutella-packets
+X-Ultrapeer: False
+X-Ultrapeer-Needed: False
+GGEP:0.5
+Accept-Encoding: deflate
+Listen-IP: 81.82.66.148:6346
+Remote-IP: biep
+
